@@ -20,6 +20,7 @@ public class Test {
         System.out.println("conflict_larry_branch_1.0");
         System.out.println("local_push_master_branch_1.0");
         System.out.println("local_push_SSH_master_branch_1.0");
+        System.out.println("remote_update_master_branch_1.0");
     }
 
 
